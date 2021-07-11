@@ -1,5 +1,7 @@
-# great-martial-arts
+# Redesign Website Great martial arts Bali
 - Run Index.html with defult browser in your pc.
-- this design html support with browser ( Chrome, Chromemium, Firefox beta & Nightly Firefox).
-- this website support any resolution device. until now we need feedback.
-- dont forget to leave feedback at my instagram.
+- support with browser ( Chrome, Chromemium, Firefox beta & Nightly Firefox).
+- Using Boostrap v5.0
+- Responsive Design with Any device (smartphone, tablet, & pc)
+- i'm need more feedback cuz to make to perfect website design
+- give feedback to support me learn website devloper
